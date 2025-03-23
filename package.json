@@ -37,5 +37,10 @@
   },
   "config": {
     "registry": "https://registry.npmjs.org/"
+  },
+  "overrides": {
+    "yocto-queue": {
+      "version": "0.1.0"
+    }
   }
 }
